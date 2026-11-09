@@ -1,0 +1,7 @@
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+resultados/
+pruebas_tmp/
