@@ -1,0 +1,1 @@
+{ conjunto { grupo rojo 7[0;0] 2[3;1] } { grupo azul } }
