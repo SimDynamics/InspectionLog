@@ -1,6 +1,8 @@
-# InspectionLog
+# Programar desde cero con C++
 
-Referencia didáctica del proyecto de Programación 1, «Programar desde cero con C++». Permite revisar una muestra de inspecciones por grupos, presentar un informe y guardar una copia recuperable. Esta implementación del autor sirve para contrastar la construcción guiada; no acredita por sí misma el trabajo ni el dominio de un estudiante.
+Repositorio único del proyecto educativo de Programación 1. Su aplicación de consola consiste en un registro de inspecciones por grupos, cuya referencia didáctica se desarrolló inicialmente con el nombre interno «InspectionLog». El código, las pruebas, los ejemplos y la documentación se conservan juntos aquí, sin crear repositorios adicionales para partes o etapas del curso.
+
+Esta implementación del autor permite contrastar una muestra de inspecciones, presentar un informe y guardar una copia recuperable. No acredita por sí misma el trabajo ni el dominio de un estudiante. El proyecto debe construirse y enseñarse progresivamente en paralelo al currículo, sin anticipar secciones que aún no se han estudiado ni declararlo finalizado.
 
 ## Contrato
 
